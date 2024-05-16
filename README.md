@@ -2,7 +2,7 @@
 
 [![][logo-url]][docs-url]
 
-**The most popular, free and open-source component library for Tailwind CSS**
+**The most popular, free and open-source component library for Tailwind CSS** ⭐
 
 [![][version]](https://www.npmjs.com/package/daisyui)
 [![][commit]](https://github.com/saadeghi/daisyui)
